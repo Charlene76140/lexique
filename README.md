@@ -1,4 +1,4 @@
-## Lexique du vocabulaire du web
+# Lexique du vocabulaire du web
 
 Ce fichier a été créé afin de valider les acquis de ma première semaine de formation en appliquant ce que j'ai appris cette semaine. 
 
