@@ -6,5 +6,6 @@ Ci-dessous le lexique web évoqué en formation
 
 ## Lexique
 
-1. git : Logiciel de sauvegarde pour le code. Il aide à la gestion du projet côté technique
+1. git : Logiciel de sauvegarde pour le code. Il aide à la gestion du projet côté technique.
 2. github : Application web permettant d'héberger du code et gérer son projet. C'est une platerforme collaborative basée sur l'open source.
+3. ligne de commande : Elements tapés dans le terminal afin de lancer des opérations dans la machine.
