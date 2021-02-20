@@ -19,7 +19,7 @@ Ci-dessous le lexique web évoqué en formation
 11. **client** : Le client est un logiciel qui envoie des demandes à un serveur. Il peut s'agir d'un logiciel manipulé par une personne ou d'un bot.
 12. **serveur** : Un serveur informatique est un dispositif informatique (materiel et logiciel) qui offre des services à un ou plusieurs clients.
 13. **base de données** : Une base de donnés est une collection d'informations organisées afin d'être facilement consultables, gérables et mises à jour.
-14. **branch** :
-15. **commit** :
-16. **Responsive** :
-17. **terminal** : 
+14. **branch** : Une branch dans Git est un pointeur léger et déplaçable vers un des ces commits. La branch par défaut dans Git s'appelle master. Au fur et a mesure des validations, la branch master pointe vers le dernier des commits réalisés.
+15. **commit** : La commande git commit capture un instantanée des changements actuellement stagés du projet. Les instantanés commités peuvent être considérés comme des versions "sures" d'un projet.
+16. **Responsive** : Est une site conçu et developé de façon ç pouvoir s'adapter à toutes les résolutions d'écran. C'est donc un seul et même site qui peut être consulté sur un ordinateur, sur smartphone ou tablette.
+17. **terminal** : Le terminal est un moyen de communiquer entre l'homme et la machine via des lignes de commandes. 
